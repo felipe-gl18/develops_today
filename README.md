@@ -19,5 +19,4 @@ npm run dev
 
 the Front-End will listen on the http://localhost:3001  
 Usually it listens on http://localhost:3001, but our API is already using the 3000 port, next wil automaticly use 3001 instead  
-Usually we would use just npm i, but with --legacy-peer-deps we avoid any errors.  
-
+We would use just npm i, but with --legacy-peer-deps we avoid any errors.  
